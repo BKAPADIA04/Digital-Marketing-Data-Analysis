@@ -1,4 +1,4 @@
-# Online Advertising Performance Data Analysis
+# Online Advertising Performance Data Analysis 
 
 ## Overview
 This project analyzes the online advertising performance data of "Company X" from April 1, 2020, to June 30, 2020. The dataset includes metrics such as user engagement, ad banners, placements, displays, costs, clicks, revenue, post-click conversions, and post-click sales amount. The analysis aims to derive insights into various aspects of the advertising campaigns conducted during this period.
